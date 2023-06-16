@@ -1,4 +1,3 @@
-echo '```markdown
 # COVID-19 Outbreak Prediction
 
 This project focuses on predicting the outbreak of COVID-19 using a linear regression model. The goal is to gain insights into the spread of the pandemic and anticipate its impact.
